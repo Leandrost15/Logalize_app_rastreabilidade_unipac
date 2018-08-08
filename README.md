@@ -44,6 +44,7 @@ Tecnologias envolvidas:
 	
 Logalize Team:
 
+	Elaine (CEO)
 	Leandro Salustriano dos Santos (CTO)
 	Karina Arakaki Higuti
 	Ezequiel Pontes
